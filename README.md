@@ -8,5 +8,5 @@
 - 运行sgns_additional_eval.sh以采取不同策略（中心词向量 + 上下文词向量 / 中心词向量 + 上下文词向量 + 对应的部件向量）对向量表示进行评测
 
 > 此项目基于 https://github.com/zhezhaoa/ngram2vec 
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 $$ \frac a a+p_w $$
